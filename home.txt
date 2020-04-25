@@ -6,5 +6,8 @@ This is my first project
 We are going to start programming
 1.Angular
 
+2.Nodejs
+3.MongoDB
+
 
 Thank you
